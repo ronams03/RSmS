@@ -1,0 +1,5 @@
+{
+  "name": "ReturnServiceOS",
+  "description": "A glassmorphic return service management system with proof storage, categorization, and secure local user management.",
+  "requestFramePermissions": []
+}
